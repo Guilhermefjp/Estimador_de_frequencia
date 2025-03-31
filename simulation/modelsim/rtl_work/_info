@@ -1,0 +1,65 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Guilherme\Desktop\UFJF\Laboratório de Sistemas Eletrônicos III\interpolador\simulation\modelsim
+vexemplo1_tb
+!i10b 1
+!s100 l2_XP;Q3UnUoE1C2ETEfk1
+Ihb@a61_0hOPS:;Y_6z8O;3
+VAGKh<N3lkk9m0`W?H`d7h2
+Z1 dC:\Users\Guilherme\Desktop\UFJF\Laboratório de Sistemas Eletrônicos III\interpolador\simulation\modelsim
+w1742219209
+8C:/Users/Guilherme/Desktop/UFJF/Laboratório de Sistemas Eletrônicos III/interpolador/exemplo1_tb.v
+FC:/Users/Guilherme/Desktop/UFJF/Laboratório de Sistemas Eletrônicos III/interpolador/exemplo1_tb.v
+L0 3
+Z2 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1742264849.985000
+!s107 C:/Users/Guilherme/Desktop/UFJF/Laboratório de Sistemas Eletrônicos III/interpolador/exemplo1_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Guilherme/Desktop/UFJF/Laboratório de Sistemas Eletrônicos III/interpolador|C:/Users/Guilherme/Desktop/UFJF/Laboratório de Sistemas Eletrônicos III/interpolador/exemplo1_tb.v|
+!s101 -O0
+Z3 o-vlog01compat -work work -O0
+Z4 !s92 -vlog01compat -work work {+incdir+C:/Users/Guilherme/Desktop/UFJF/Laboratório de Sistemas Eletrônicos III/interpolador} -O0
+vtop_level
+IQ`6KBT1hnJXYJzVfTC?l:3
+VSa3:KR[NJ7oblSeQ5B^?12
+R1
+w1742264809
+8C:/Users/Guilherme/Desktop/UFJF/Laboratório de Sistemas Eletrônicos III/interpolador/top_level.v
+FC:/Users/Guilherme/Desktop/UFJF/Laboratório de Sistemas Eletrônicos III/interpolador/top_level.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 T;?3M13obaJ_C7Agi81GP2
+!s85 0
+!s108 1742264849.903000
+!s107 C:/Users/Guilherme/Desktop/UFJF/Laboratório de Sistemas Eletrônicos III/interpolador/top_level.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Guilherme/Desktop/UFJF/Laboratório de Sistemas Eletrônicos III/interpolador|C:/Users/Guilherme/Desktop/UFJF/Laboratório de Sistemas Eletrônicos III/interpolador/top_level.v|
+!s101 -O0
+vzero_cross
+I>kYoh^m_ZCg52Ti^;Q0X91
+VghX?OB4[kGj14IeP81[BJ1
+R1
+w1742264795
+8C:/Users/Guilherme/Desktop/UFJF/Laboratório de Sistemas Eletrônicos III/interpolador/zero_cross.v
+FC:/Users/Guilherme/Desktop/UFJF/Laboratório de Sistemas Eletrônicos III/interpolador/zero_cross.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 aAS@Pmn;3XLMLdVjQ7j:C3
+!s85 0
+!s108 1742264849.639000
+!s107 C:/Users/Guilherme/Desktop/UFJF/Laboratório de Sistemas Eletrônicos III/interpolador/zero_cross.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Guilherme/Desktop/UFJF/Laboratório de Sistemas Eletrônicos III/interpolador|C:/Users/Guilherme/Desktop/UFJF/Laboratório de Sistemas Eletrônicos III/interpolador/zero_cross.v|
+!s101 -O0
